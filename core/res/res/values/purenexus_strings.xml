@@ -148,4 +148,9 @@
     <string name="app_ops_turn_on_screen">turn the screen on</string>
     <string name="app_ops_get_accounts">get device accounts</string>
     <string name="app_ops_wifi_change">change Wi-Fi state</string>
+
+    <!-- CM Strings -->
+    <string name="permlab_preventpower">override power key</string>
+    <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permdesc_preventpower">Allows an app to override the power key.</string>
 </resources>
