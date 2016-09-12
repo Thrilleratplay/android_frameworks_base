@@ -4334,7 +4334,7 @@ public class PhoneStatusBar extends BaseStatusBar implements DemoMode,
             mVibrator.vibrate(new long[] { 0, 500L }, -1 /* repeat */);
         } else {
             mVibrator.vibrate(new long[] { 0, 0L }, -1 /* repeat */);
-        }        
+        }
     }
 
     public void onScreenTurnedOn() {
